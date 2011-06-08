@@ -6,4 +6,4 @@ Replace your `console.xml` file's `<colors>` node with the one from this project
 
 ## License
 
-Its free, as in speech and beer. If it breaks, feel free to keep both parts.
+Its free, as in speech and beer. If it breaks, feel free to keep both pieces.
