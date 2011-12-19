@@ -2,7 +2,7 @@
 
 ## Installing
 
-Replace your `console.xml` file's `<colors>` node with the one from this project's `console.xml`. You can typically find your Console2's config in `~/AppData/Roaming/Console`.
+Replace your `console.xml` file's `<colors>` node with the one from this project's `console.xml` (dark theme) or `console.light.xml` (light). You can typically find your Console2's config in `~/AppData/Roaming/Console`.
 
 ## License
 
