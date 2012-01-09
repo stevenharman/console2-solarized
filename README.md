@@ -1,6 +1,6 @@
 # Solarized Color Scheme for Windows Console2
 
-Original [Solarized] Color Scheme created and developed by [Ethan Schoonover][Solarized]  <es@ethanschoonover.com>
+Original [Solarized] Color Scheme created and developed by [Ethan Schoonover][Solarized]
 
 [Console2] is a replacement for the traditional Windows Console. [Console2] add tabs, easier text editing, background and color configurations as well as other features.
 
